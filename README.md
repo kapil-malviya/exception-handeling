@@ -32,7 +32,7 @@ Each subdirectory within this repository contains Python scripts that demonstrat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kapil-malviya/exception-handeling-in-python.git
+   git clone https://github.com/kapil-malviya/exception-handeling.git
    ```
 
 2. Navigate to the desired subdirectory:
