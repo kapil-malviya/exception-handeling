@@ -37,7 +37,7 @@ Each subdirectory within this repository contains Python scripts that demonstrat
 
 2. Navigate to the desired subdirectory:
    ```bash
-   cd exception-handeling-in-python/
+   cd exception-handeling/
    ```
 
 3. Run the Python script:
