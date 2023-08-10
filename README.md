@@ -53,5 +53,3 @@ Contributions to this repository are welcome! If you'd like to add more examples
 please open a pull request. 
 
 ---
-
-Master the art of handling exceptions in Python!
